@@ -1,0 +1,35 @@
+{
+  "name": "decision-tree-questionnaire",
+  "version": "1.0.3",
+  "description": "Module to easily implement decision tree logic in a react app",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "typescript": "^3.9.6",
+    "typings": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maia-miller/react-decision-tree.git"
+  },
+  "keywords": [
+    "decision tree",
+    "questionnaire",
+    "accessible",
+    "react",
+    "reactjs",
+    "json"
+  ],
+  "author": "Maia Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maia-miller/react-decision-tree/issues"
+  },
+  "homepage": "https://github.com/maia-miller/react-decision-tree#readme"
+}
