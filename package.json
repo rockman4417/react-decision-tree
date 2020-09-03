@@ -1,6 +1,6 @@
 {
-  "name": "decision-tree-questionnaire",
-  "version": "1.0.3",
+  "name": "@catalyst/react-decision-tree",
+  "version": "1.0.4",
   "description": "Module to easily implement decision tree logic in a react app",
   "main": "index.js",
   "directories": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maia-miller/react-decision-tree.git"
+    "url": "git+https://github.com/catalyst/react-decision-tree.git"
   },
   "keywords": [
     "decision tree",
@@ -26,10 +26,10 @@
     "reactjs",
     "json"
   ],
-  "author": "Maia Miller",
+  "author": "Maia Miller, Paul Hallett, Merrin Macleod",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maia-miller/react-decision-tree/issues"
+    "url": "https://github.com/catalyst/react-decision-tree/issues"
   },
-  "homepage": "https://github.com/maia-miller/react-decision-tree#readme"
+  "homepage": "https://github.com/catalyst/react-decision-tree#readme"
 }
